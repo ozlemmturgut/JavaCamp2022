@@ -13,10 +13,10 @@ public class Main {
 		}
 		
 		if(total == number) {
-			System.out.println("Mükemmel sayýdýr.");
+			System.out.println("MÃ¼kemmel sayidir.");
 		}
 		else {
-			System.out.println("Mükemmel sayý deðildir.");
+			System.out.println("MÃ¼kemmel sayi degildir.");
 		}
 	}
 
