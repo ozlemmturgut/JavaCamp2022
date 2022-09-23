@@ -6,13 +6,13 @@ public class Main {
 		
 		int sayi = 20;
 		if (sayi < 20) {
-			System.out.println("Sayi 20'den küçüktür");
+			System.out.println("Sayi 20'den kÃ¼Ã§Ã¼ktÃ¼r");
 		}
 		else if (sayi > 20) {
-			System.out.println("Sayi 20'den büyüktür");
+			System.out.println("Sayi 20'den bÃ¼yÃ¼ktÃ¼r");
 		}
 		else {
-			System.out.println("Sayi 20'ye eşittir");
+			System.out.println("Sayi 20'ye esittir");
 		}
 		
 
