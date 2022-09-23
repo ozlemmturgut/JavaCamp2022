@@ -22,10 +22,10 @@ public class Main {
 		}
 		
 		if(sayi1 == toplam2 && sayi2 == toplam1 ) {
-			System.out.println(sayi1 + " ve "+ sayi2 + " arkadaş sayılardır.");
+			System.out.println(sayi1 + " ve "+ sayi2 + " arkadas sayilardir.");
 		}
 		else {
-			System.out.println(sayi1 + " ve "+ sayi2 + " arkadaş sayı değillerdir.");
+			System.out.println(sayi1 + " ve "+ sayi2 + " arkadas sayi degillerdir.");
 		}
 	}
 
