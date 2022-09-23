@@ -18,7 +18,7 @@ public class Main {
 			System.out.println("Sayi mevcuttur.");
 		}
 		else {
-			System.out.println("Sayi mevcut deðildir.");
+			System.out.println("Sayi mevcut degildir.");
 		}
 	}
 
