@@ -9,12 +9,12 @@ public class Main {
 		boolean isPrime = true;
 		
 		if (number == 1) {
-			System.out.println("Asal deðil");
+			System.out.println("Asal degil");
 			return;
 		}
 		
 		if (number < 2) {
-			System.out.println("Geçersiz sayi");
+			System.out.println("GeÃ§ersiz sayi");
 			return;
 		}
 		
@@ -28,7 +28,7 @@ public class Main {
 			System.out.println("Asal");
 		}
 		else {
-			System.out.println("Asal deðil");
+			System.out.println("Asal degil");
 		}
 		
 	}
